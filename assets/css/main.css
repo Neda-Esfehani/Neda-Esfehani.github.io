@@ -693,10 +693,6 @@ section,
   align-items: center;
   justify-content: center;
 }
-.custom-background {
-  background: url('assets/img/bac.jpg') no-repeat center center;
-  background-size: cover;
-}
 
 .hero img {
   position: absolute;
