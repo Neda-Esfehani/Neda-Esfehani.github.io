@@ -1116,7 +1116,7 @@ section,
 }
 
 .services .service-item:hover .icon {
-  background:#3a4a47; 
+  background: var(--surface-color); 
 }
 
 .services .service-item:hover .icon i {
