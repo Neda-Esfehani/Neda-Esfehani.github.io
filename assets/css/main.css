@@ -1111,8 +1111,8 @@ section,
 }
 
 .services .service-item:hover {
-  background: var(--accent-color);
-  border-color: var(--accent-color);
+  background: #3a4a47;
+  border-color: #3a4a47;
 }
 
 .services .service-item:hover .icon {
