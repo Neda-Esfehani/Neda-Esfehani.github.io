@@ -1116,11 +1116,11 @@ section,
 }
 
 .services .service-item:hover .icon {
-  background: var(--surface-color);
+  background:#3a4a47; 
 }
 
 .services .service-item:hover .icon i {
-  color: var(--accent-color);
+  color:#3a4a47;
 }
 
 .services .service-item:hover .icon::before {
